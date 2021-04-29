@@ -2,17 +2,17 @@
 project with visualisation:
 ![objective](https://github.com/shubham123ch/shubham_chaturvedi.github.io/blob/gh-pages/screenshot/shot2.png)
 
-Table of Content:
-Overview
-Technical Aspect
-Installation
-To Do:
-Bug / Feature Request
-Technologies Used
-Team
-License
-Credits
-Demo
+## Table of Content: 
+* Overview
+* Technical Aspect
+* Installation
+* To Do:
+* Bug / Feature Request
+* Technologies Used
+* Team
+* License
+* Credits
+* Demo
 
 
 
