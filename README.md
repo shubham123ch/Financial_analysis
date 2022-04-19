@@ -18,7 +18,7 @@ project with visualisation:
 
 
 Overview:
-![](https://github.com/shubham123ch/shubham_chaturvedi.github.io/blob/gh-pages/screenshot/shot3.png)
+[](https://github.com/shubham123ch/shubham_chaturvedi.github.io/blob/gh-pages/screenshot/shot3.png)
 
 
 Technical Aspect:
@@ -30,7 +30,7 @@ The Code is written in Python 3.7. If you don't have Python installed you can fi
 
 To Do:
 
-![](https://github.com/shubham123ch/shubham_chaturvedi.github.io/blob/gh-pages/screenshot/shot1.png).
+[](https://github.com/shubham123ch/shubham_chaturvedi.github.io/blob/gh-pages/screenshot/shot1.png).
 Add a better vizualization chart to display the predictions.
 Bug / Feature Request
 If you find a bug (the website couldn't handle the query and / or gave undesired results), kindly open an issue here by including your search query and the expected result.
